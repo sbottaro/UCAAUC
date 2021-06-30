@@ -1,1 +1,5 @@
-This folder contains conformational ensembles of the UCAAUC RNA oligonucleotide.
+This repo contains the conformational ensembles of the UCAAUC RNA oligonucleotide from MD simulations (FFLJbb.dcd and FF99.dcd) and from ROSETTA's FARFAR2 algorithm (ROSETTA.dcd).
+Each file contains 2 trajectories of 5000 frames. 
+The EXP folder contains NMR and SAXS data in tabular format. 
+
+
